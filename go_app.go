@@ -7,4 +7,5 @@ func main() {
   multiple_results()
   named_results()
   variables()
+  variables_with_initializers()
 }
