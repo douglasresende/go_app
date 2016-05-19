@@ -9,4 +9,6 @@ func main() {
   variables()
   variables_with_initializers()
   short_variables()
+  basic_types()
+  zero()
 }
