@@ -8,4 +8,5 @@ func main() {
   named_results()
   variables()
   variables_with_initializers()
+  short_variables()
 }
